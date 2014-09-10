@@ -1,0 +1,24 @@
+{
+  "name": "droute",
+  "version": "0.1.0",
+  "description": "dynamic load route",
+  "main": "./lib/droute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilesun/hello2"
+  },
+  "keywords": [
+    "dynamic",
+    "load",
+    "route"
+  ],
+  "author": "wm6run",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilesun/hello2/issues"
+  },
+  "homepage": "https://github.com/wilesun/hello2"
+}
